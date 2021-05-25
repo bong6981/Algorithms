@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="125bfd6c-0163-4e01-93de-552104bd7c5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/src/etc/Boj_1330.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/src/etc/Boj_1550.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Boj_1550.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etc/Boj_1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etc/Boj_1330.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +94,7 @@
       <workItem from="1620345883198" duration="120000" />
       <workItem from="1620346362640" duration="1268000" />
       <workItem from="1620449557900" duration="1375000" />
-      <workItem from="1621980273482" duration="297000" />
+      <workItem from="1621980273482" duration="1178000" />
     </task>
     <servers />
   </component>
