@@ -3,5 +3,5 @@ for i in range(3) :
     for j in range(i, 0, -1) :
         print(f'j는 {j}')
 
-print(5//3)
+print(3//5)
 print(5/3)
