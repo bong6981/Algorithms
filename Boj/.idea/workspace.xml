@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="125bfd6c-0163-4e01-93de-552104bd7c5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/etc/boj_2558.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Boj_2558.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="125bfd6c-0163-4e01-93de-552104bd7c5a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dongBinBook" />
   </component>
   <component name="RunManager" selected="Application.Boj_2558">
     <configuration name="Boj_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,17 +73,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Boj_2558" />
@@ -110,6 +95,7 @@
       <workItem from="1620449557900" duration="1375000" />
       <workItem from="1621980273482" duration="1178000" />
       <workItem from="1623306585219" duration="65000" />
+      <workItem from="1623310492277" duration="9000" />
     </task>
     <servers />
   </component>
@@ -123,5 +109,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
